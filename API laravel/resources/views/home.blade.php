@@ -1,0 +1,1 @@
+<h1>Bonjour, bienvenue sur ton dashboard {{ Auth::user()->name }}</h1>
